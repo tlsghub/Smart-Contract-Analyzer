@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Contract Auditor",
+  "description": "An AI-powered tool to analyze smart contract security, tokenomics, and investment safety. Upload contract code or provide an address to get a comprehensive audit and a safety score.",
+  "requestFramePermissions": []
+}
